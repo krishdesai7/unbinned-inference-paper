@@ -10,3 +10,6 @@ Here are the main pieces of code with brief descriptions.
 - **GenerateInputSamples.py** :  Generates samples for analysis with Iterative Bayesian Unfolding.
 - **iMinuitFits.py** :  Performs the IBU and binned chi2 fits of the IBU output.
 - **paper-plots....ipynb** :  Makes the plots in the paper.
+- **RooMultiVarGaussian2e...** :  Modified version of some RooFit code to allow fitting all covariance parameters of the multi variate Gaussian.
+- **validate-unbinned-ml-fits.ipynb** :  Code to check RooMultiVarGaussian2e to make sure that the asymptotic uncertainties are correct when the events are statistically independent.
+
