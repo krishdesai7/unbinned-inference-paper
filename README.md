@@ -1,6 +1,6 @@
 # unbinned-inference-paper
 
-This is the code used for the studies described in **Unbinned Inference with Correlated Events** (arXiv:xxxx).  Detector resolution effects in experimental data can be statistically removed using unfolding techniques.  Advances in machine learning have enabled the unfolding of unbinned, high-dimensional data, where the output is a set of simulated events with event weights that are assigned by the unfolding.  In our paper, we present studies of how statistical correlations in the event weights affect inference tasks performed on the unfolding output. 
+This is the code used for the studies described in **Unbinned Inference with Correlated Events** [arXiv:2504.14072](https://arxiv.org/abs/2504.14072).  Detector resolution effects in experimental data can be statistically removed using unfolding techniques.  Advances in machine learning have enabled the unfolding of unbinned, high-dimensional data, where the output is a set of simulated events with event weights that are assigned by the unfolding.  In our paper, we present studies of how statistical correlations in the event weights affect inference tasks performed on the unfolding output. 
 
 Here are the main pieces of code with brief descriptions.
 
