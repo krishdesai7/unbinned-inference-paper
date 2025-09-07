@@ -1,4 +1,4 @@
-2025-09-06 18:58:20.043644
+2025-09-07 00:39:21.183583
 
 ngen_mc 100000
 ngen_true  10000
@@ -15,7 +15,7 @@ l1reg_activation_setval  0.0
 l2reg_activation_setval  0.0
 l1reg_bias_setval  0.0
 l2reg_bias_setval  0.0
-activation_setval  <function custom_activation at 0x161c4b4c0>
+activation_setval  <function custom_activation at 0x7ff8c7122020>
 beta  4
 patience_setval  -1
 restore_best_weights_setval  False
