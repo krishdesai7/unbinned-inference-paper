@@ -11,7 +11,7 @@ dependencies = [
     "setuptools>=80.9.0",
     "pyyaml>=6.0.2",
     "tensorflow[and-cuda]>=2.18.1",
-    "root>=0.1a8",
+    "pandas>=2.3.2",
 ]
 [[tool.uv.index]]
 name = "cern"
