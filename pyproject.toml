@@ -16,3 +16,6 @@ dependencies = [
 [[tool.uv.index]]
 name = "cern"
 url = "https://root-experimental-python-wheels.web.cern.ch"
+
+[tool.uv.extra-build-dependencies]
+sshproxy = ["i18n"]
